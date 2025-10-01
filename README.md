@@ -1,5 +1,7 @@
 ## HELLO WORLD...👋
 
+I'm a data analyst enthusiashm, a passionate and curious learner who has some learning experience in data analytics & research, and ready to be trained more. Skilled in data analytics and machine learning field with technical knowledge in Rstudio, Python, SQL, Tableau, and Excel Spreadsheet as tools for doing data analysis and visualization.
+
 <!--
 **RafliRadithya23/RafliRadithya23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
