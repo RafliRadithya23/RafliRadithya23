@@ -1,6 +1,9 @@
 name: GitHub Snake Game
 
-
+permissions:
+  contents: write
+  pages: write
+  id-token: write
 
 on:
 
