@@ -6,7 +6,7 @@ I'm a data analyst enthusiashm, a passionate and curious learner who has some le
 ## 👨🏻‍💻Language
 | Rstudio | Python | SQL | SAS | C |
 |---------|--------|-----|-----|---|
-| ✅      | ✅     | ✅  | ✅  | ✅ |
+| ![R](Logo/96e773c4e30a86c8e7e85c97cc42c7bf.png)      | ![Python](Logo/8110ce8ecd7903031e8567dc24e18d9a.png)     | ![SQL](Logo/a80de9a9e9f4896852cacd8a8a4e194e.png)  | ![sas](Logo/sas-logo-white-reversed-new.png)  | ![C](Logo/e79cbb4395d895b6befe9ac92a5a40a2.png) |
 
 ## 🔧Tools
 
