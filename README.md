@@ -10,7 +10,13 @@ I'm a data analyst enthusiashm, a passionate and curious learner who has some le
 
 ## 🔧Tools
 
-### Data Analyst
+### Data Analyst & Visualization
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/e3e73b91-3828-44d6-a1a8-b659d09b5be9" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/a18eccd6-f1ca-4c1d-b8e0-39dd58c52322" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/dbf4367a-d80d-48ab-a2b4-4c4f76218fc9" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/735dd8d1-4a45-4084-a1fc-b92c7e4b9d87" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/f564caa0-0652-4ca5-a43c-6883e9535c61" />
+
 
 ### Data Science
 ![Scikit-learn](https://img.shields.io/badge/scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
