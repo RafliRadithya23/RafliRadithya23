@@ -12,9 +12,10 @@ I'm a data analyst enthusiashm, a passionate and curious learner who has some le
 
 ### Data Analyst
 
-
 ### Data Science
-
+![Scikit-learn](https://img.shields.io/badge/scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Tensorflow](https://img.shields.io/badge/TensorFlow-FF3F06?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras)
 
 ## 📊Github Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafliRadithya23&langs_count=8)
